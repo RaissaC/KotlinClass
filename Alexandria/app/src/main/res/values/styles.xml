@@ -6,6 +6,12 @@
         <item name="colorPrimary">#11111b</item>
         <item name="colorPrimaryDark">#11111b</item>
         <item name="colorAccent">@color/btnMenuRenew</item>
+
+    </style>
+
+    <style name="button_reservation_transaction">
+        <item name="android:background">#978A8A</item>
+        <item name="android:textColor">#978A8A</item>
     </style>
 
 </resources>
